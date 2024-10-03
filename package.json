@@ -1,0 +1,16 @@
+{
+  "name": "usuariorepositorio",
+  "version": "1.0.0",
+  "description": "Manutenção de Software e DevOps",
+  "main": "node.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0"
+  }
+}
